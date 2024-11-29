@@ -2,8 +2,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-49&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+<p align="left">I'm a software engineer with 5+ years of experience <br>in both backend and front end development</p>
+
+###
+
+<div align="left">
+  <a href="reithc4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/christopherreith/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -22,18 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
+###
+
 <div align="center">
-  <a href="reithc4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/christopherreith/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
-
-<!---
-c-49/c-49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
