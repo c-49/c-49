@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Chris!</h2>
+<h2 align="left">Chris Reith</h2>
 
 ###
 
