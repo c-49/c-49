@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a software engineer with 5+ years of experience <br>in both backend and front end development</p>
+<p align="left">I'm a software engineer with experience in <br>in both backend and front end development</p>
 
 ###
 
