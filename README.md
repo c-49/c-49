@@ -1,40 +1,20 @@
-<h2 align="left">Hi!</h2>
+# Hi 👋
 
-###
+I'm a software engineer with a passion for both frontend and backend development.
+Currently building freelance web solutions for local businesses.
 
-<p align="left">I'm a software engineer with experience in <br>in both backend and front end development</p>
+## 🛠️ Languages & Tools
 
-###
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![Vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
 
-<div align="left">
-  <a href="reithc4@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/natalie-c49/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 👨‍💻 About Me
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=13&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
+- 💼 Freelance web developer helping local businesses get online
+- 🌐 Full-stack experience with Vue 3, Node/Express, and PostgreSQL
+- 🔧 I enjoy building tools, templates, and things that solve real problems
